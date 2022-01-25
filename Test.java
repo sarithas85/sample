@@ -11,5 +11,6 @@ class Test
   System.out.println("Sum is " +c);
   System.out.println("Float add is " +d);
   System.out.println("String is " +s);
+  System.out.println("hello");
   }
   }
